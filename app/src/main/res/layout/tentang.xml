@@ -55,4 +55,11 @@
         android:text="www.blogsetyaaji.blogspot.com"
         android:id="@+id/textView5"
         android:layout_gravity="center_horizontal"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Propfile"
+        android:id="@+id/btnvprofil"
+        android:layout_gravity="center_horizontal"/>
 </LinearLayout>
